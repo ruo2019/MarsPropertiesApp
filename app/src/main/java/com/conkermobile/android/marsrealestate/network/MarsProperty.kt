@@ -15,7 +15,7 @@
  *
  */
 
-package com.example.android.marsrealestate.network
+package com.conkermobile.android.marsrealestate.network
 
 import com.squareup.moshi.Json
 

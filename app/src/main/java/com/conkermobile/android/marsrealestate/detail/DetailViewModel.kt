@@ -14,12 +14,12 @@
  *  limitations under the License.
  */
 
-package com.example.android.marsrealestate.detail
+package com.conkermobile.android.marsrealestate.detail
 
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.ViewModel
-import com.example.android.marsrealestate.network.MarsProperty
+import com.conkermobile.android.marsrealestate.network.MarsProperty
 
 /**
  * The [ViewModel] that is associated with the [DetailFragment].
